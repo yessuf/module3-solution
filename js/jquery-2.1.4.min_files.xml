@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="jquery-2.1.4.min.js" source="original">
+    <mtime>1442335774</mtime>
+    <size>84347</size>
+    <md5>26aae2f13dc332df6e6f01e6657a03a0</md5>
+    <crc32>2dd7fe4c</crc32>
+    <sha1>8cbb682f32cf5bf8702571399ccb57a77148f27b</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="jquery-2.1.4.min_archive.torrent" source="metadata">
+    <btih>0385d22fb2f8477dce1ccc44724bc0f60273a837</btih>
+    <mtime>1484833135</mtime>
+    <size>1688</size>
+    <md5>98f8bfc5d4aaf3ed05b8c1e41e4e68b5</md5>
+    <crc32>cfd66777</crc32>
+    <sha1>95b8acba84390cc63e8c82731613965bef7f84f3</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="jquery-2.1.4.min_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>990a8d2a50cfa937b80b6b56214f466b</md5>
+  </file>
+  <file name="jquery-2.1.4.min_meta.sqlite" source="original">
+    <mtime>1442335786</mtime>
+    <size>9216</size>
+    <md5>92bb41e0b0859160a41c85199f6b7591</md5>
+    <crc32>479b19a7</crc32>
+    <sha1>fb3d54639a3aacab278ef31b8766730c9c8a06ad</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="jquery-2.1.4.min_meta.xml" source="original">
+    <mtime>1484833133</mtime>
+    <size>1035</size>
+    <format>Metadata</format>
+    <md5>fba41ddec16a7b60371c1e03ba47dbe0</md5>
+    <crc32>72031c31</crc32>
+    <sha1>3f0d1d5533caec7eee4959228926117ac5ed9e03</sha1>
+  </file>
+</files>
